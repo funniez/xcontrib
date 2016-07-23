@@ -38,6 +38,8 @@ gem 'devise'
 gem 'bootstrap-sass'
 # Use acts as votable gem
 gem 'acts_as_votable'
+# Use simpleform for comments
+gem 'simple_form'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
